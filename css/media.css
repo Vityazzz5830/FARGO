@@ -1,0 +1,109 @@
+@media screen and (max-width: 1400px) and (min-width: 1200px){
+
+/*----------------------ГЛАВНАЯ---------------------------*/
+
+.header_content_leftpart_logo > a:nth-child(1) > img:nth-child(1) {
+  width: 80%;
+}
+
+.header_content_rightpart_phone:nth-child(1) > p:nth-child(2) {
+  white-space: nowrap;
+}
+
+.header_content_leftpart {
+  column-gap: 20px;
+}
+
+.catalogsec_mainpage {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.catalogsec_mainpage_content_list {
+  column-gap: 9px;
+}
+
+.choicesec_mainpage_content_header {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.choicesec_mainpage_content > p:nth-child(2) {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.aboutussec_mainpage {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.technologiessec_mainpage {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.formsec_mainpage {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+footer {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+
+
+
+
+/*----------------------СТРАНИЦА О НАС---------------------------*/
+
+
+/*----------------------СТРАНИЦА ПРОЕКТЫ---------------------------*/
+
+.projectssec_projectspage {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+
+/*----------------------СТРАНИЦА КАТАЛОГ---------------------------*/
+
+.catalog_catalogpage {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+
+/*----------------------СТРАНИЦА КОНТАКТЫ---------------------------*/
+
+.contactssec_contactspage {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+/*----------------------СТРАНИЦА КАРТОЧКА ТОВАРА---------------------------*/
+
+.mainsec_catalogitempage {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
